@@ -1,0 +1,50 @@
+11th International Conference on Mobile Ad-hoc and Sensor Networks (MSN 2015)
+
+MSN 2015 provides a forum for researchers and practitioners to exchange research results and share development experiences in the field of mobile ad-hoc and sensor networks.
+
+* Topics
+Topics of particular interest include, but are not limited to:
+- Multi-hop Wireless Networks and Wireless Mesh Networks          
+- Sensor and Actuator Networks                  
+- Vehicle Ad Hoc Networks
+- Mobile Social Networks
+- Delay Tolerant Networks and Opportunistic Networking
+- Cyber-Physical Systems
+- Internet of Things (Protocols, Architectures & Novel Applications)
+- System Modeling and Performance Analysis
+- Routing and Network Protocols
+- Data Transport and Management in Mobile Networks
+- Resource Management and Wireless QoS Provisioning
+- Security and Privacy
+- Cross Layer Design and Optimization
+- Novel applications and Architectures
+
+* Important Dates
+Submission Deadline:            	August 1, 2015
+Notification of Paper Acceptance:	September 28, 2015
+Camera Ready due:			October 8, 2015
+
+* Paper Submission
+All papers need to be submitted electronically through the conference website with PDF format. The materials presented in the papers should not be published or under submission elsewhere. Submit a full paper with 8 pages plus up to 2 extra pages (two columns, single-spaced), including figures and references, using 10 fonts, and number each page.
+
+* Paper Publication
+Once accepted, the paper will be included into the IEEE conference proceedings published by IEEE Computer Society Press (indexed by EI). Authors (at least one) of any accepted paper are requested to register at the conference.
+
+* Special Issues
+1. Ad Hoc & Sensor Wireless Networks: An International Journal (SCI Indexed)
+2. International Journal of Sensor Networks (IJSNet)
+
+* Steering Committee Co-Chairs
+Xiaohua Jia (City University of Hong Kong)
+Jiannong Cao (Hong Kong Polytechnic University)
+
+* TPC Co-Chairs
+Hongwei Du (Harbin Institute of Technology Shenzhen Graduate School, China)
+Giuseppe Anastasi (University of Pisa, Italy)
+Kui Ren (University at Buffalo, USA)
+
+
+
+* Contact
+Website: http://msn2015.hitsz.edu.cn
+Email: ieeemsn2015@gmail.com
