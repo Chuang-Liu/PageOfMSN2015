@@ -1,6 +1,6 @@
-11th International Conference on Mobile Ad-hoc and Sensor Networks (MSN 2015)
+11th IEEE International Conference on Mobile Ad-hoc and Sensor Networks (MSN 2015)
 
-MSN 2015 provides a forum for researchers and practitioners to exchange research results and share development experiences in the field of mobile ad-hoc and sensor networks.
+IEEE MSN 2015 provides a forum for researchers and practitioners to exchange research results and share development experiences in the field of mobile ad-hoc and sensor networks.
 
 * Topics
 Topics of particular interest include, but are not limited to:

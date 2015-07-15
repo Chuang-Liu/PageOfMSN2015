@@ -2,19 +2,25 @@ Zhipeng Cai, Georgia State University, USA
 Mihaela Cardei, Florida Atlantic University, USA
 Sriram Chellappan, Missouri University of Science and Technology, USA
 Xiaowen Chu, Hong Kong Baptist University, HongKong
+Mooi Choo Chuah, Lehigh University, USA
 Yong Cui, Tsinghua University, China
 Thang Dinh, Virginia Commonwealth University, USA
+Jie Gao, Stony Brook University, USA
 Xiaofeng Gao, Shanghai Jiao Tong University, China
 Song Han, University of Connecticut, USA
 Donghyun Kim, North Carolina Central University, USA
+Minming Li, City University of Hong Kong, HongKong
 Yingshu Li, Georgia State University, USA
 Wei Lou, The Hong Kong Polytechnic University, HongKong
 Nam Nguyen, Towson University, USA
 Ravi Prakash, University of Texas at Dallas, USA
 Kan Qiao, Google
+Rik Sarkar, University of Edinburgh, UK
 Yilin Shen, Samsung Research America
+Zhou Su, Waseda University, Japan
 Shaojie Tang, University of Texas at Dallas, USA
 Cong Wang, City University of HongKong, HongKong
 Yu Wang, University of North Carolina at Charlotte, USA
 Qiang Ye, University of Prince Edward Island, Canada
+Jiaofei Zhong, University of Central Missouri, USA
 Hongzi Zhu, Shanghai Jiao Tong University, China
